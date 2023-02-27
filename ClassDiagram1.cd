@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ProjetColonie.Batiment">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAMAAAAAEQA=</HashCode>
+      <FileName>Batiment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetColonie.Personnage">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAIAAAAAAMAAAAAAQA=</HashCode>
+      <FileName>Personnage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetColonie.Ouvrier">
+    <Position X="12" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAACAAAAAAAAAAAAQAABAAAAA=</HashCode>
+      <FileName>Ouvrier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetColonie.Ennemi">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ennemi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetColonie.Defenseur">
+    <Position X="1.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAACAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Defenseur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetColonie.Ressource">
+    <Position X="15.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ressource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetColonie.BatimentEntrainement">
+    <Position X="25.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BatimentEntrainement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetColonie.ExtracteurElixir">
+    <Position X="15" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEAEAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExtracteurElixir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetColonie.ReserveElixir">
+    <Position X="17" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEAAAAAAAAAAAAAAAAAAAggAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReserveElixir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetColonie.CampEntrainement">
+    <Position X="26.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CampEntrainement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetColonie.Caserne">
+    <Position X="29" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caserne.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

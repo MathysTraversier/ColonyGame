@@ -1,0 +1,16 @@
+C:\Users\mathy\Desktop\projet-2022-coulon_traversier\obj\Debug\ProjetColonie.csproj.AssemblyReference.cache
+C:\Users\mathy\Desktop\projet-2022-coulon_traversier\obj\Debug\ProjetColonie.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathy\Desktop\projet-2022-coulon_traversier\obj\Debug\ProjetColonie.csproj.CoreCompileInputs.cache
+C:\Users\mathy\Desktop\projet-2022-coulon_traversier\bin\Debug\ProjetColonie.exe.config
+C:\Users\mathy\Desktop\projet-2022-coulon_traversier\bin\Debug\ProjetColonie.exe
+C:\Users\mathy\Desktop\projet-2022-coulon_traversier\bin\Debug\ProjetColonie.pdb
+C:\Users\mathy\Desktop\projet-2022-coulon_traversier\obj\Debug\ProjetColonie.exe
+C:\Users\mathy\Desktop\projet-2022-coulon_traversier\obj\Debug\ProjetColonie.pdb
+C:\Users\mathy\Desktop\projetS6-2022-coulon_traversier\ProjetColonie\bin\Debug\ProjetColonie.exe.config
+C:\Users\mathy\Desktop\projetS6-2022-coulon_traversier\ProjetColonie\bin\Debug\ProjetColonie.exe
+C:\Users\mathy\Desktop\projetS6-2022-coulon_traversier\ProjetColonie\bin\Debug\ProjetColonie.pdb
+C:\Users\mathy\Desktop\projetS6-2022-coulon_traversier\ProjetColonie\obj\Debug\ProjetColonie.csproj.AssemblyReference.cache
+C:\Users\mathy\Desktop\projetS6-2022-coulon_traversier\ProjetColonie\obj\Debug\ProjetColonie.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathy\Desktop\projetS6-2022-coulon_traversier\ProjetColonie\obj\Debug\ProjetColonie.csproj.CoreCompileInputs.cache
+C:\Users\mathy\Desktop\projetS6-2022-coulon_traversier\ProjetColonie\obj\Debug\ProjetColonie.exe
+C:\Users\mathy\Desktop\projetS6-2022-coulon_traversier\ProjetColonie\obj\Debug\ProjetColonie.pdb
